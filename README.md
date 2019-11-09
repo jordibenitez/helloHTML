@@ -1,6 +1,6 @@
 # helloHTML
 ###### En aquesta pagina web es veura el nom de un company amb la seva foto, per que es sapiga aui es
-![imagen](web.jpg)
+![imagen](IMG_20190912_183911.jpg)
 ```
 Per descarregar el codi necesitarem utilitzar la comanda git clone per descarregar
 Despres modifiquem el fitxer
